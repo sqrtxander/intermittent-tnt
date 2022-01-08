@@ -1,0 +1,1 @@
+execute as @a[scores={tnt_players=1}] run function tntspawn:tick
